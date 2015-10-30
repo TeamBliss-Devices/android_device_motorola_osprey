@@ -1,4 +1,6 @@
 # system.prop for osprey
+ro.product.device=osprey
+ro.product.model=osprey
 
 # Audio
 audio.offload.24bit.enable=false
